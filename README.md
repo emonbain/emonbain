@@ -60,6 +60,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mdevanulhasan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mdevanulhasan" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdevanulhasan&show_icons=true&locale=en&layout=compact" alt="mdevanulhasan" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdevanulhasan&show_icons=true&locale=en" alt="mdevanulhasan" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdevanulhasan&" alt="mdevanulhasan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdevanulhasan&show_icons=true&theme=dark&locale=en&layout=compact" alt="mdevanulhasan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdevanulhasan&show_icons=true&theme=dark&locale=en" alt="mdevanulhasan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdevanulhasan&theme=dark" alt="mdevanulhasan" /></p>
