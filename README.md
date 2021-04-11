@@ -84,7 +84,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mdevanulhasan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mdevanulhasan" /></a></p>
 
-**Visitors Count**  
+***Visitors Count:***
+<br /><br />
 ![VisitorCount](https://profile-counter.glitch.me/{mdevanulhasan}/count.svg)
 
 <!--
