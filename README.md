@@ -1,11 +1,16 @@
-<h1 align="center">Hi there 👋, I'm Md Evanul Hasan.</h1>
+<h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/mdevanulhasan/mdevanulhasan/main/Hi.gif" alt="Hi Gif" width="30px" /> <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+ <br /><br /> I'm <a href="https://mdevanulhasan.blogspot.com">Md Evanul Hasan</a>.
+</h1>
 
-<h3 align="center">A Passionate Web Designer and self-motivator.</h3>
+<h3 align="center">A Passionate Web Designer, Self-motivator and Dreamer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdevanulhasan&label=Profile%20views&color=0e75b6&style=flat-square" alt="mdevanulhasan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/evanulmd" target="blank"><img src="https://img.shields.io/twitter/follow/evanulmd?logo=twitter&style=for-the-badge" alt="evanulmd" /></a> </p>
-
+<details>
+<summary>:zap: Know More About Me:</summary><br />
+  
+  
 - 🔭 I’m currently working on **many web templates.**
 
 - 🌱 I’m currently learning **Bootstrap 5, jQuery plugins, and much more things.**
@@ -25,18 +30,22 @@
 - 📄 Know about my experiences [https://mdevanulhasan2.blogspot.com](https://mdevanulhasan2.blogspot.com)
 
 - ⚡ Fun fact **"Thirsty For Knowledge".**
+</details>
 
-<h3 align="left">Connect with me:</h3>
+<details>
+<summary>:zap: Most Used Languages</summary>
+<img align="center" alt="Md Evanul Hasan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdevanulhasan&show_icons=true&theme=dark&locale=en" />
+</details>
 
-<p align="left">
-<a href="https://linkedin.com/in/mdevanulhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mdevanulhasan" height="30" width="40" /></a>
-<a href="https://fb.com/mdevanulhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mdevanulhasan" height="30" width="40" /></a>
-<a href="https://twitter.com/evanulmd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="evanulmd" height="30" width="40" /></a>
-<a href="https://instagram.com/mdevanulhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mdevanulhasan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/md evanul hasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="md evanul hasan" height="30" width="40" /></a>
-<a href="https://codepen.io/mdevanulhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mdevanulhasan" height="30" width="40" /></a>
-<a href="https://dev.to/mdevanulhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mdevanulhasan" height="30" width="40" /></a>
-</p>
+<details>
+<summary>:zap: GitHub Stats</summary>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdevanulhasan&show_icons=true&theme=dark&locale=en" alt="mdevanulhasan" />
+</details>
+
+<details>
+<summary>:zap: Total Contributions</summary>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdevanulhasan&theme=dark" alt="mdevanulhasan" />
+</details>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -60,8 +69,23 @@
 <a href="https://mdevanulhasan.blogspot.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/mdevanulhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mdevanulhasan" height="30" width="40" /></a>
+<a href="https://fb.com/mdevanulhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mdevanulhasan" height="30" width="40" /></a>
+<a href="https://twitter.com/evanulmd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="evanulmd" height="30" width="40" /></a>
+<a href="https://instagram.com/mdevanulhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mdevanulhasan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/md evanul hasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="md evanul hasan" height="30" width="40" /></a>
+<a href="https://codepen.io/mdevanulhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mdevanulhasan" height="30" width="40" /></a>
+<a href="https://dev.to/mdevanulhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mdevanulhasan" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mdevanulhasan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mdevanulhasan" /></a></p>
+
+
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdevanulhasan&show_icons=true&theme=dark&locale=en&layout=compact" alt="mdevanulhasan" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdevanulhasan&show_icons=true&theme=dark&locale=en" alt="mdevanulhasan" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdevanulhasan&theme=dark" alt="mdevanulhasan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdevanulhasan&theme=dark" alt="mdevanulhasan" /></p> -->
