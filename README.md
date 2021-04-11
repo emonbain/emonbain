@@ -9,8 +9,7 @@
 <p align="left"> <a href="https://twitter.com/evanulmd" target="blank"><img src="https://img.shields.io/twitter/follow/evanulmd?logo=twitter&style=for-the-badge" alt="evanulmd" /></a> </p>
 <details>
 <summary>:zap: Know More About Me:</summary><br />
-  
-  
+ 
 - 🔭 I’m currently working on **many web templates.**
 
 - 🌱 I’m currently learning **Bootstrap 5, jQuery plugins, and much more things.**
