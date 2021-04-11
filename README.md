@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">A Passionate Web Designer, Self-motivator and Dreamer.</h3>
-
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdevanulhasan&label=Profile%20views&color=0e75b6&style=flat-square" alt="mdevanulhasan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/evanulmd" target="blank"><img src="https://img.shields.io/twitter/follow/evanulmd?logo=twitter&style=for-the-badge" alt="evanulmd" /></a> </p>
@@ -84,6 +84,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mdevanulhasan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mdevanulhasan" /></a></p>
 
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{mdevanulhasan}/count.svg)
 
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdevanulhasan&show_icons=true&theme=dark&locale=en&layout=compact" alt="mdevanulhasan" /></p>
