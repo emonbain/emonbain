@@ -33,17 +33,20 @@
 </details>
 
 <details>
-<summary>:zap: Most Used Languages</summary>
+<summary>:zap: Most Used Languages</summary><br />
+ 
 <img align="center" alt="Md Evanul Hasan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdevanulhasan&show_icons=true&theme=dark&locale=en" />
 </details>
 
 <details>
-<summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary><br />
+ 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdevanulhasan&show_icons=true&theme=dark&locale=en" alt="mdevanulhasan" />
 </details>
 
 <details>
-<summary>:zap: Total Contributions</summary>
+<summary>:zap: Total Contributions</summary><br />
+ 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdevanulhasan&theme=dark" alt="mdevanulhasan" />
 </details>
 
