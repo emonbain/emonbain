@@ -4,7 +4,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/mdevanulhasan/mdevanulhasan/main/work_work_work.gif" alt="Work Gif" /></h1><br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdevanulhasan&label=Profile%20views&color=0e75b6&style=flat-square" alt="mdevanulhasan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/evanulmd" target="blank"><img src="https://img.shields.io/twitter/follow/evanulmd?logo=twitter&style=for-the-badge" alt="evanulmd" /></a> </p>
+<p align="left"> <a href="https://twitter.com/evanulmd" target="blank"><img src="https://img.shields.io/twitter/follow/evanulmd?logo=twitter&style=for-the-badge" alt="Your Network Connection is slow. That's why Twitter Button not appearing. Please reload this page." /></a> </p>
 <details>
 <summary>:zap: Know More About Me:</summary><br />
  
@@ -82,13 +82,8 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mdevanulhasan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mdevanulhasan" /></a></p>
+<p><a href="https://www.buymeacoffee.com/mdevanulhasan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Your Network Connection is slow. That's why Buymecoffee Button not appearing. Please reload this page." /></a></p>
 
 ***Visitors Count:***
 <br /><br />
 ![VisitorCount](https://profile-counter.glitch.me/{mdevanulhasan}/count.svg)
-
-<!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdevanulhasan&show_icons=true&theme=dark&locale=en&layout=compact" alt="mdevanulhasan" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdevanulhasan&show_icons=true&theme=dark&locale=en" alt="mdevanulhasan" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdevanulhasan&theme=dark" alt="mdevanulhasan" /></p> -->
