@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/evanulmd" target="blank"><img src="https://img.shields.io/twitter/follow/evanulmd?logo=twitter&style=for-the-badge" alt="Your Network Connection is slow. That's why Twitter Button not appearing. Please reload this page." /></a> </p>
 <details>
-<summary>:zap: Know More About Me:</summary><br />
+ <summary>:zap: <span title="Click Me">Know More About Me:</span></summary><br />
  
 - 🔭 I’m currently working on **many web templates.**
 
@@ -30,19 +30,19 @@
 </details>
 
 <details>
-<summary>:zap: Most Used Languages</summary><br />
+ <summary>:zap: <span title="Click Me">Most Used Languages:</span></summary><br />
  
 <img align="center" alt="Md Evanul Hasan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdevanulhasan&show_icons=true&theme=dark&locale=en" />
 </details>
 
 <details>
-<summary>:zap: GitHub Stats</summary><br />
+ <summary>:zap: <span title="Click Me">GitHub Stats:</span></summary><br />
  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdevanulhasan&show_icons=true&theme=dark&locale=en" alt="mdevanulhasan" />
 </details>
 
 <details>
-<summary>:zap: Total Contributions</summary><br />
+ <summary>:zap: <span title="Click Me">Total Contributions:</span></summary><br />
  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdevanulhasan&theme=dark" alt="mdevanulhasan" />
 </details>
