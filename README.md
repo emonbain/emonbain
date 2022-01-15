@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/evanulmd" target="blank"><img src="https://img.shields.io/twitter/follow/evanulmd?logo=twitter&style=for-the-badge" alt="Your Network Connection is slow. That's why Twitter Button not appearing. Please reload this page." /></a> </p>
 <details>
- <summary>:adult: <span title="Click Me">Know More About Me:</span></summary><br />
+ <summary>:adult: <span title="Click Me"><em><strong>Know More About Me:</strong></em></span></summary>
  
 - 🔭 I’m currently working on **"Many Web Templates".**
 
@@ -15,12 +15,12 @@
 - 👯 I'm looking to collaborate myself to **Go Ahead.**
 
 - 🤝 I’m looking for help with **A Supportive Company.**
+ 
+- 💬 Ask me about **Creative Design Concepts.**
 
 - 👨‍💻 All of my projects are available at [https://mdevanulhasan.com](https://mdevanulhasan.com)
 
 - 📝 I regularly write articles on [https://mdevanulhasan.blogspot.com](https://mdevanulhasan.blogspot.com)
-
-- 💬 Ask me about **creative design concepts.**
 
 - 📫 How to reach me **mdevanulhasan@gmail.com**
 
@@ -30,19 +30,19 @@
 </details>
 
 <details>
- <summary>:recycle: <span title="Click Me">Most Used Languages:</span></summary><br />
+ <summary>:recycle: <span title="Click Me"><em><strong>Most Used Languages:</strong></em></span></summary><br />
  
 <img align="center" alt="Md Evanul Hasan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdevanulhasan&show_icons=true&theme=dark&locale=en" />
 </details>
 
 <details>
- <summary>:octocat: <span title="Click Me">GitHub Stats:</span></summary><br />
+ <summary>:octocat: <span title="Click Me"><em><strong>GitHub Stats:</em></strong></span></summary><br />
  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdevanulhasan&show_icons=true&theme=dark&locale=en" alt="mdevanulhasan" />
 </details>
 
 <details>
- <summary>:chart_with_upwards_trend: <span title="Click Me">Total Contributions:</span></summary><br />
+ <summary>:chart_with_upwards_trend: <span title="Click Me"><em><strong>Total Contributions:</em></strong></span></summary><br />
  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdevanulhasan&theme=dark" alt="mdevanulhasan" />
 </details>
