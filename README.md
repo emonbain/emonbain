@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/mdevanulhasan/mdevanulhasan/main/Hi.gif" alt="Hi Gif" width="30px" /> <𝚌𝚘𝚍𝚎𝚛𝚜/>!<br /> I'm <a href="https://mdevanulhasan.blogspot.com" title="Visit My Personal Blog." target="_blank">Md Evanul Hasan</a>.
+
+<h1 align="center">Hi there, <𝚌𝚘𝚍𝚎𝚛𝚜/>!<br /> I'm <a href="https://mdevanulhasan.blogspot.com" title="Visit My Personal Blog." target="_blank">Md Evanul Hasan</a>.
 </h1>
 <h3 align="center">:mortar_board: A Passionate Web Designer, Self-motivator and Dreamer.</h3>
 <h1 align="center"><img src="https://raw.githubusercontent.com/mdevanulhasan/mdevanulhasan/main/work_work_work.gif" alt="Work Gif" /></h1><br />
