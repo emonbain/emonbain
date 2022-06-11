@@ -5,7 +5,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/mdevanulhasan/mdevanulhasan/main/work_work_work.gif" alt="Work Gif" /></h1><br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdevanulhasan&label=Profile%20views&color=0e75b6&style=flat-square" alt="Your Network Connection is slow. That's why Profile Views Button not appearing. Please reload this page." /> </p>
 
-<p align="left"> <a href="https://twitter.com/evanulmd" target="blank"><img src="https://img.shields.io/twitter/follow/evanulmd?logo=twitter&style=for-the-badge" alt="Your Network Connection is slow. That's why Twitter Button not appearing. Please reload this page." /></a> </p>
+<p align="left"> <a href="https://twitter.com/MdEvanulHasan" target="blank"><img src="https://img.shields.io/twitter/follow/MdEvanulHasan?logo=twitter&style=for-the-badge" alt="Your Network Connection is slow. That's why Twitter Button not appearing. Please reload this page." /></a> </p>
 <details>
  <summary>:adult: <span title="Click Me"><em><strong>Know More About Me:</strong></em></span></summary>
  
@@ -84,7 +84,7 @@
 <p align="left">
 <a title="Visit my social accounts." href="https://linkedin.com/in/mdevanulhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/mdevanulhasan/All-Social-Icons/main/Resized%20Images%20By%20100%20x%20100/linkedin.png" alt="mdevanulhasan" height="40" width="40" /></a>&nbsp;
 <a title="Visit my social accounts." href="https://fb.com/mdevanulhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/mdevanulhasan/All-Social-Icons/main/Resized%20Images%20By%20100%20x%20100/facebook3.png" alt="mdevanulhasan" height="40" width="40" /></a>&nbsp;
-<a title="Visit my social accounts." href="https://twitter.com/evanulmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/mdevanulhasan/All-Social-Icons/main/Resized%20Images%20By%20100%20x%20100/twitter1.png" alt="evanulmd" height="40" width="40" /></a>&nbsp;
+<a title="Visit my social accounts." href="https://twitter.com/MdEvanulHasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/mdevanulhasan/All-Social-Icons/main/Resized%20Images%20By%20100%20x%20100/twitter1.png" alt="MdEvanulHasan" height="40" width="40" /></a>&nbsp;
 <a title="Visit my social accounts." href="https://instagram.com/mdevanulhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/mdevanulhasan/All-Social-Icons/main/Resized%20Images%20By%20100%20x%20100/instagram2.png" alt="mdevanulhasan" height="40" width="40" /></a>&nbsp;
 <a title="Visit my social accounts." href="https://www.youtube.com/channel/UCEqEuC0aBzSeERcOQ8cgfww" target="blank"><img align="center" src="https://raw.githubusercontent.com/mdevanulhasan/All-Social-Icons/main/Resized%20Images%20By%20100%20x%20100/youtube2.png" alt="md evanul hasan" height="40" width="40" /></a>&nbsp;
 <a title="Visit my social accounts." href="https://www.pinterest.com/mdevanulhasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/mdevanulhasan/All-Social-Icons/main/Resized%20Images%20By%20100%20x%20100/pinterest1.png" alt="md evanul hasan" height="40" width="40" /></a>&nbsp;
