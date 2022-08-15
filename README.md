@@ -11,7 +11,7 @@
  
 - 🔭 I’m currently working on **"Many Web Templates".**
 
-- 🌱 I’m currently learning **Bootstrap 5, jQuery plugins, WooCommerce Site Development and much more things.**
+- 🌱 I’m currently learning **Vanilla JavaScript, jQuery plugins integration, WooCommerce Site Development with WordPress & Shopify.**
 
 - 👯 I'm looking to collaborate myself to **Go Ahead.**
 
