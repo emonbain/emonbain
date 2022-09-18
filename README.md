@@ -1,14 +1,14 @@
 
-<h1 align="center">Hi there, 👋 <𝚌𝚘𝚍𝚎𝚛𝚜/>!<br /> I'm <a href="https://mdevanulhasan.blogspot.com" title="Visit My Personal Blog." target="_blank">Md Evanul Hasan</a>.
+<h1 align="center">Hi there, 👋 <𝚌𝚘𝚍𝚎𝚛𝚜/>!<br /> I'm <a href="https://emonbain.com" title="Visit My Personal Blog." target="_blank">Emon Bain</a>.
 </h1>
 <h3 align="center">:mortar_board: A Passionate Web Designer, Self-motivator and Dreamer.</h3>
-<h1 align="center"><img src="https://raw.githubusercontent.com/mdevanulhasan/mdevanulhasan/main/work_work_work.gif" alt="Work Gif" /></h1>
+<h1 align="center"><img src="https://emonbain.com/" /></h1>
 <h3 align="center">My Working Progress: 😍 </h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/mdevanulhasan/mdevanulhasan/4332f2e9883e75fd028ee3d0793497ed51205e75/snake.svg" alt="Your Network Connection is slow. That's why Profile Views Button not appearing. Please reload this page." /> </p>
+<p align="left"> <img src="https://emonbain.com/" alt="Your Network Connection is slow. That's why Profile Views Button not appearing. Please reload this page." /> </p>
 <br />
-<h3 align="center"> 🌐 Visit My Portfolio Site: <a href="https://mdevanulhasan.com" title="Click Me To Watch" target="_blank">Md Evanul Hasan</a></h3>
+<h3 align="center"> 🌐 Visit My Portfolio Site: <a href="https://emonbain.com/" title="Click Me To Watch" target="_blank">Emon Bain</a></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdevanulhasan&label=Profile%20views&color=0e75b6&style=flat-square" alt="Your Network Connection is slow. That's why Profile Views Button not appearing. Please reload this page." /> </p>
+<p align="left"> <img src="https://emonbain.com/" /> </p>
 <p align="left"> <a href="https://twitter.com/MdEvanulHasan" target="blank"><img src="https://img.shields.io/twitter/follow/MdEvanulHasan?logo=twitter&style=for-the-badge" alt="Your Network Connection is slow. That's why Twitter Button not appearing. Please reload this page." /></a> </p>
 <details>
  <summary>:adult: <span title="Click Me"><em><strong>Know More About Me:</strong></em></span></summary>
@@ -37,7 +37,7 @@
 <details>
  <summary>:recycle: <span title="Click Me"><em><strong>Most Used Languages:</strong></em></span></summary>
  
-<img align="center" alt="Md Evanul Hasan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdevanulhasan&show_icons=true&theme=dark&locale=en" />
+<img align="center" alt="Emon Bain's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdevanulhasan&show_icons=true&theme=dark&locale=en" />
 </details>
 
 <details>
